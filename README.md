@@ -43,6 +43,7 @@ Follow the prompts to register, select a mood, pick features, and rate songs.
 
 ## Project Structure
 ├── recommender.py   # Main script
+
 └── songs.csv        # Song dataset with feature vectors
 
 ## Tech Stack
