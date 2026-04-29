@@ -51,3 +51,17 @@ Follow the prompts to register, select a mood, pick features, and rate songs.
 - Python 3
 - pandas, numpy
 - matplotlib
+
+---
+
+## 👩‍💻 Author
+
+**Aastha** 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aastha-karn-61876a298/)
+
+---
+
+<div align="center">
+Built with ❤️ 
+</div>
